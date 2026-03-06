@@ -1,4 +1,4 @@
-## welcome welcome 👋🏼
+## welcome 👋🏼
 
 i'm Satchit, compE @ GT  
 
