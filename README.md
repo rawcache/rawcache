@@ -1,3 +1,4 @@
 ## hey 👋🏼
 
-TEST
+i'm Satchit, compE @ GT
+i <3 building, (A $\cup$ B)
