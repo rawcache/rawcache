@@ -1,1 +1,1 @@
-<a href="https://www.linkedin.com/in/satchitseth/" target="_blank"><img src="welcome.svg" height="32"></a><br>i'm **Satchit**, computer engineering + AI/ML @<img src="bee.svg" height="70"><br><3 to build 'n collab. reach out ~ sseth @ gatech [dot] edu
+<a href="https://www.linkedin.com/in/satchitseth/" target="_blank"><img src="welcome.svg" height="32"></a><br>i'm **Satchit**, computer engineering + AI/ML @ <img src="bee.svg" height="70"><br><3 to build 'n collab. reach out ~ sseth @ gatech [dot] edu
