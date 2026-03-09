@@ -1,0 +1,23 @@
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="welcomeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2bb0d8" />
+      <stop offset="100%" stop-color="#2fd38a" />
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="none" />
+
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="56"
+    font-weight="700"
+    fill="url(#welcomeGradient)"
+  >
+    Welcome 👋🏼
+  </text>
+</svg>
