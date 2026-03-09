@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./welcome.svg" />
+<img src="./welcome.svg">
 </p>
 
 i'm Satchit, computer engineering + AI/ML @ GT  
