@@ -5,45 +5,31 @@
       values="
       0,0;
       6,-1;
-      6,-1;
-      10,1;
       10,1;
       14,-1;
-      14,-1;
-      18,0;
       18,0;
       14,1;
-      14,1;
       10,-1;
-      10,-1;
-      6,1;
       6,1;
       0,0"
       keyTimes="
       0;
-      0.066;
-      0.133;
-      0.2;
-      0.266;
-      0.333;
-      0.4;
-      0.466;
-      0.533;
-      0.6;
-      0.666;
-      0.733;
-      0.8;
-      0.866;
-      0.933;
+      0.125;
+      0.25;
+      0.375;
+      0.5;
+      0.625;
+      0.75;
+      0.875;
       1"
       dur="6s"
       repeatCount="indefinite"/>
     
     <animateTransform attributeName="transform"
       type="scale"
-      values="-1,1; 1,1; -1,1"
-      keyTimes="0; 0.5; 1"
-      calcMode="discrete"
+      values="0,1; -1,1; -1,1; 0,1; 1,1; 1,1; 0,1"
+      keyTimes="0; 0.03; 0.47; 0.5; 0.53; 0.97; 1"
+      calcMode="linear"
       additive="sum"
       dur="6s"
       repeatCount="indefinite"/>
