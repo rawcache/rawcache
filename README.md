@@ -1,6 +1,6 @@
-<p align="left">
-<img src="./welcome.svg" height="35"/>
-</p>
+<div align="left">
+<img src="welcome.svg" height="40">
+</div>
 
 i'm Satchit, computer engineering + AI/ML @ GT  
 
