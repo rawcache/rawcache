@@ -1,22 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="430" height="70" viewBox="0 0 430 70">
-  <g>
-    <text x="0" y="0" font-size="14">🐝</text>
-    <animateMotion
-      dur="7.2s"
-      repeatCount="indefinite"
-      rotate="auto"
-      path="M 10 18
-            C 55 10, 110 12, 170 13
-            C 235 14, 300 15, 360 16
-            C 390 17, 402 22, 404 35
-            C 406 48, 399 57, 383 58
-            C 355 60, 325 58, 295 55
-            C 270 52, 246 49, 228 46
-            C 210 43, 222 39, 246 41
-            C 278 44, 312 46, 346 47
-            C 372 48, 386 45, 389 36
-            C 392 28, 384 22, 366 21
-            C 314 19, 252 18, 192 18
-            C 135 18, 80 19, 28 22" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="16" viewBox="0 0 36 16">
+  <text x="2" y="12" font-size="12">🐝
+    <animateTransform attributeName="transform"
+      type="translate"
+      values="0,0; 6,-1; 10,1; 14,-1; 18,0; 14,1; 10,-1; 6,1; 0,0"
+      dur="6s"
+      repeatCount="indefinite"/>
+    <animateTransform attributeName="transform"
+      type="scale"
+      values="1,1;-1,1;1,1"
+      additive="sum"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </text>
 </svg>
