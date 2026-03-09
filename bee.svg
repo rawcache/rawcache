@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="80" height="40" viewBox="0 0 80 40">
   <text x="4" y="40" font-size="16" font-weight="400" fill="white"
     font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">GT</text>
-  <text x="0" y="40" font-size="22">🐝
+  <text x="0" y="40" font-size="16">🐝
     <animateTransform attributeName="transform" type="translate"
       values="0,-20; 20,-26; 40,-20; 20,-14; 0,-20"
       dur="3s" repeatCount="indefinite"/>
