@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="50" viewBox="0 0 20 50">
-  <text y="48" font-size="16">🐝
+  <text y="48" font-size="24">🐝
     <animateTransform attributeName="transform" type="translate"
       values="0,0; 1,-1; 0,0; -1,-1; 0,0"
       dur="1.2s" repeatCount="indefinite"/>
