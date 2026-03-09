@@ -1,7 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="50" viewBox="0 0 20 50">
-  <text y="48" font-size="20">🐝
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="50" viewBox="0 0 80 50">
+  <text x="0" y="38" font-size="20" font-weight="600" fill="white"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">GT</text>
+  <text y="28" font-size="20">🐝
     <animateTransform attributeName="transform" type="translate"
-      values="0,0; 1,-1; 0,0; -1,-1; 0,0"
-      dur="1.2s" repeatCount="indefinite"/>
+      values="-5,8; 30,0; 55,8; 30,14; -5,8"
+      dur="3s" repeatCount="indefinite"/>
   </text>
 </svg>
