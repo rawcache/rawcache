@@ -1,9 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="50" viewBox="0 0 80 50">
-  <text x="0" y="44" font-size="22" font-weight="600" fill="white"
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="55" viewBox="0 0 80 55">
+  <!-- GT text sitting at the bottom -->
+  <text x="4" y="52" font-size="22" font-weight="600" fill="white"
     font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">GT</text>
-  <text y="44" font-size="22">🐝
-    <animateTransform attributeName="transform" type="translate"
-      values="-5,-10; 30,-18; 55,-10; 30,-4; -5,-10"
-      dur="3s" repeatCount="indefinite"/>
+  <!-- bee flies above GT -->
+  <text x="0" y="28" font-size="22">🐝
+    <animate attributeName="x" values="0;20;40;20;0" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="28;22;28;34;28" dur="3s" repeatCount="indefinite"/>
   </text>
 </svg>
