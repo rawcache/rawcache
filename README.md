@@ -1,4 +1,4 @@
-<img src="welcome.svg" height="40" width="100%">
+<img src="welcome.svg" height="40">
 
 i'm Satchit, computer engineering + AI/ML @ GT  
 
