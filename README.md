@@ -1,6 +1,6 @@
-<span style="cursor: default !important; pointer-events: none !important; user-select: none;">
-  <img src="welcome.svg" height="42" style="display: inline-block; pointer-events: none;"><br>
+<div align="left">
+  <img src="welcome.svg" height="42" draggable="false" alt="Welcome"><br>
   i'm **Satchit**, computer engineering + AI/ML @ GT
-  <img src="bee.svg" height="22" style="display: inline-block; pointer-events: none;"><br>
+  <img src="bee.svg" height="22" draggable="false" alt="Bee animation"><br>
   <3 to build 'n collab. reach out ~ sseth @ gatech [dot] edu
-</span>
+</div>
