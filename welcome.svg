@@ -1,26 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="132" height="24" viewBox="0 0 132 24" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="24" viewBox="0 0 132 24">
   <defs>
-    <linearGradient id="gradient" x1="0" y1="0" x2="132" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#B3A369">
-        <animate attributeName="stop-color" values="#B3A369;#003057;#B3A369" dur="4s" begin="0s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#003057">
-        <animate attributeName="stop-color" values="#003057;#B3A369;#003057" dur="4s" begin="1s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#B3A369">
-        <animate attributeName="stop-color" values="#B3A369;#003057;#B3A369" dur="4s" begin="2s" repeatCount="indefinite"/>
-      </stop>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#003057" />
+      <stop offset="50%" stop-color="#B3A369" />
+      <stop offset="100%" stop-color="#003057" />
     </linearGradient>
+
+    <pattern id="pattern" x="0" y="0" width="300%" height="100%" patternUnits="userSpaceOnUse">
+      <rect width="150%" height="100%" fill="url(#gradient)">
+        <animate attributeName="x" from="-150%" to="0" dur="4s" repeatCount="indefinite" />
+      </rect>
+      <rect x="150%" width="150%" height="100%" fill="url(#gradient)">
+        <animate attributeName="x" from="0" to="150%" dur="4s" repeatCount="indefinite" />
+      </rect>
+    </pattern>
   </defs>
 
   <text
     x="0"
     y="18"
-    fill="url(#gradient)"
+    fill="url(#pattern)"
     font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji"
     font-size="18"
     font-weight="700"
-    letter-spacing="0"
   >
     welcome!
   </text>
