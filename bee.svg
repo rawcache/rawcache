@@ -2,7 +2,40 @@
   <text x="2" y="12" font-size="12">🐝
     <animateTransform attributeName="transform"
       type="translate"
-      values="0,0; 6,-1; 10,1; 14,-1; 18,0; 14,1; 10,-1; 6,1; 0,0"
+      values="
+      0,0;
+      6,-1;
+      6,-1;
+      10,1;
+      10,1;
+      14,-1;
+      14,-1;
+      18,0;
+      18,0;
+      14,1;
+      14,1;
+      10,-1;
+      10,-1;
+      6,1;
+      6,1;
+      0,0"
+      keyTimes="
+      0;
+      0.08;
+      0.16;
+      0.24;
+      0.32;
+      0.40;
+      0.48;
+      0.56;
+      0.64;
+      0.72;
+      0.80;
+      0.88;
+      0.92;
+      0.96;
+      0.98;
+      1"
       dur="6s"
       repeatCount="indefinite"/>
     <animateTransform attributeName="transform"
