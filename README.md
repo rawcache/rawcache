@@ -1,4 +1,6 @@
-## welcome 👋🏼
+<p align="center">
+  <img src="./welcome.svg" alt="Welcome" />
+</p>
 
 i'm Satchit, computer engineering + AI/ML @ GT  
 
