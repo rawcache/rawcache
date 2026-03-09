@@ -1,6 +1,6 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/sseth30/sseth30/main/welcome.svg" height="30"/>
-</h1>
+<p align="center">
+<img src="./welcome.svg" height="35"/>
+</p>
 
 i'm Satchit, computer engineering + AI/ML @ GT  
 
